@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+header {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    background-color: cadetblue;
+}
+hgroup {
+    text-align: center;
+    margin-top: 10px;
+}
+p {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
